@@ -28,9 +28,9 @@ os.makedirs("./downloads", exist_ok=True)
 
 bot = Client(
     "CW",
-    bot_token="6952010673:AAF2jLKLM9jHmG2b4KIHXrQEFPchvw0oMfo",
-    api_id=23636706,
-    api_hash= "569142e539afdf3b0739befbbcd8d8e2"
+    bot_token="7353522912:AAF883DLpRecdWGfh5VekhlHCtHV-MqdC7g",
+    api_id=23274330,
+    api_hash= "970e2e79779707c56d2b453b3a6eea48"
 )
 
 logger = logging.getLogger()
